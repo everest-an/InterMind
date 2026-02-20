@@ -204,3 +204,10 @@ docs/                    # 产品与技术设计文档
 ## 9. 许可证
 
 MIT，详见 `LICENSE`。
+
+---
+
+## 10. 创作者
+
+- EverestAn
+- EdwinHao
